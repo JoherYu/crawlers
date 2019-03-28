@@ -5,5 +5,5 @@
     应用beautifulsoup、request库，处理Ajax的多进程爬虫。通过添加headers模拟浏览器应对反爬。
 * 猫眼爬虫：爬取Top100电影信息  
     应用re、request库，使用正则表达式爬虫。
-* quote_to_scrape爬虫：爬取名言示例 
+* quote_to_scrape爬虫：爬取名言示例    
     应用scrapy爬虫。
